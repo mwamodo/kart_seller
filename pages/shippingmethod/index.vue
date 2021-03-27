@@ -6,8 +6,8 @@
 <script>
  // import CountryDropdown from '@/components/form/CountryDropdown'
   import { mapActions } from 'vuex'
-  
-  import DisplayShippingMethod from '@/components/shippingmethod/DisplayshippingMethod'
+
+  import DisplayShippingMethod from '@/components/shippingmethod/DisplayShippingMethod'
 
   export default {
     components: {
@@ -18,6 +18,6 @@
       'redirectIfGuest'
     ],
 
-    
+
   }
 </script>

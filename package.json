@@ -1,8 +1,8 @@
 {
-  "name": "cartclient",
+  "name": "kart_client",
   "version": "1.0.0",
   "description": "Nuxt.js project",
-  "author": "Alex Garrett <alex@codecourse.com>",
+  "author": "Mwamodo Erick <erick@mwamodo.com>",
   "private": true,
   "scripts": {
     "dev": "nuxt",

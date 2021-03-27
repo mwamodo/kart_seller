@@ -2,12 +2,11 @@
   <div class="section">
     <DisplayPincode/>
   </div>
-  </template>
-
-
+</template>
 
 <script>
-  import DisplayPincode from '@/components/Setting/DisplayPincode'
+
+  import DisplayPincode from '@/components/setting/DisplayPincode';
 
   export default {
     components: {
@@ -17,7 +16,5 @@
     middleware: [
       'redirectIfGuest'
     ],
-
-    
   }
 </script>
